@@ -1,0 +1,13 @@
+<resources>
+    <!-- *************** -->
+    <!-- HomeScreen -->
+    <!-- *************** -->
+    <string name="home_app_bar_title">Quotes</string>
+    <string name="home_app_bar_search_description">Search</string>
+    <string name="home_screen_error_message">There was an error. We are terribly sorry.</string>
+    <string name="home_screen_retry">Retry</string>
+    <string name="home_screen_next_quote">Next Quote</string>
+    <string name="home_screen_quote_create_date">Created On</string>
+    <string name="home_screen_choose_language">Choose Language:</string>
+
+</resources>
